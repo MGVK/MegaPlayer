@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MegaPlayer</string>
+    <string name="mytext">This is text from res id!!!</string>
+</resources>
